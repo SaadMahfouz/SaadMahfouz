@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaadMahfouz
-- 👀 I’m interested in web-development
-- 🌱 I’m currently learning nodejs
+- 👀 I’m interested in UX-Design
+- 🌱 I’m currently learning user experience 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me saadmhmd012@gmail.com
 
